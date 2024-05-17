@@ -10,7 +10,7 @@ Avoide directly put completion onto command line when there is only one choice b
 
 ## Installation
 
-Make sure you have [oh-my-zsh]() installed
+Make sure you have [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) installed
 
 1. `curl -fsSL https://raw.githubusercontent.com/Orion-zhen/incr-zsh/main/incr.zsh -o ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/incr/incr.zsh`
 2. in `$HOME/.zshrc`, add this line: `source $ZSH_CUSTOM/plugins/incr/incr.zsh`
