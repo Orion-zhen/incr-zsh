@@ -79,8 +79,8 @@ function show-prediction
 		# 		now_predict=1
 		# 	fi
 		# else
-    BUFFER="$buffer_org"
-    CURSOR="$cursor_org"
+    		BUFFER="$buffer_org"
+   		CURSOR="$cursor_org"
 		# fi
 		echo -n "\e[32m"
 	else
